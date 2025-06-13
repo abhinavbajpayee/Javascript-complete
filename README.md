@@ -1,2 +1,2 @@
 # Javascript-complete
-repo for code of JS
+Complete Course Notes
